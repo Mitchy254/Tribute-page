@@ -1,0 +1,36 @@
+body {
+    background-color: grey;
+    margin: 20%;
+  }
+  
+  #title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+    margin-top: -50px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto; 
+    display: block;
+    margin: auto;
+  }
+  div#tribute-info {
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px silver;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+  }
+  h2 {
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+  }
+  #tribute-link {
+    text-decoration: none;
+    color: blue;
+  }
